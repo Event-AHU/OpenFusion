@@ -1,6 +1,9 @@
 # OpenFusion 
 
 
+### Video Tutorials: 
+* **JT-60SA, a step closer to fusion energy** [[Youtube](https://www.youtube.com/watch?v=PFrz_HDdwW4&ab_channel=FUSIONFORENERGY)] 
+
 
 ### :dart: q-distribution Prediction 
 * Wang, Shiao, et al. "**Multi-modal fusion based q-distribution prediction for controlled nuclear fusion.**" International Conference on Brain Inspired Cognitive Systems. Singapore: Springer Nature Singapore, 2024. [[Paper](https://arxiv.org/pdf/2410.08879)]
