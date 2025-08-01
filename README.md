@@ -30,9 +30,3 @@
 ### :dart: PINNs 
 
 
-### :dart: Grad–Shafranov-Equilibria 
-
-
-### :dart: 
-
-
