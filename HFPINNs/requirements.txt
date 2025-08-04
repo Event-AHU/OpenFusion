@@ -1,0 +1,9 @@
+torch==2.0.0
+torchvision==0.15.1
+torchaudio==2.0.1
+tqdm==4.67.1
+scipy==1.10.1
+numpy==1.24.4
+conflictfree==0.1.7
+matplotlib==3.7.5
+einops
