@@ -14,7 +14,7 @@
 ```shell
 conda create --name EAST python==3.8
 conda activate EAST
-pip install -r requirement.txt 
+pip install -r requirements.txt 
 ```
 
 **Quick Start**
