@@ -9,7 +9,7 @@
 
 ### Get Started
 
-**Set up an environment**
+**Set up the environment**
 
 ```shell
 conda create --name EAST python==3.8
