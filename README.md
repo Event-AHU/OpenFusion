@@ -16,15 +16,19 @@
 
 
 ### :dart: AI4Fusion Survey
-* [[Survey](https://github.com/Event-AHU/AI4Fusion_Survey)] 
+
 
 
 ### :dart: Fusion_2D_Inversion 
-* [[Github](https://github.com/Event-AHU/Fusion_2D_Inversion)]
+
 
 
 ### :dart: Time_Series_Analysis 
-* [[Paper](https://github.com/Event-AHU/Time_Series_Analysis)]  
+* **HGTS-Former: Hierarchical HyperGraph Transformer for Multivariate Time Series Analysis**,
+  Xiao Wang, Hao Si, Fan Zhang, Xiaoya Zhou, Dengdi Sun, Wanli Lyu, Qingquan Yang, Jin Tang, arXiv:2508.02411
+  [[Paper](https://arxiv.org/abs/2508.02411)]
+  [[Code](https://github.com/Event-AHU/Time_Series_Analysis)] 
+
 
 
 ### :dart: PINNs 
