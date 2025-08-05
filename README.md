@@ -1,7 +1,7 @@
 # OpenFusion 
 
 
-### Video Tutorials: 
+### :dart: Video Tutorials: 
 * **JT-60SA, a step closer to fusion energy** [[Youtube](https://www.youtube.com/watch?v=PFrz_HDdwW4&ab_channel=FUSIONFORENERGY)] 
 
 
