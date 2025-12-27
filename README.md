@@ -2,7 +2,10 @@
 
 
 ### :dart: Video Tutorials: 
-* **JT-60SA, a step closer to fusion energy** [[Youtube](https://www.youtube.com/watch?v=PFrz_HDdwW4&ab_channel=FUSIONFORENERGY)] 
+* **JT-60SA, a step closer to fusion energy** [[Youtube](https://www.youtube.com/watch?v=PFrz_HDdwW4&ab_channel=FUSIONFORENERGY)]
+
+* **MIT’s Tiny Fusion Reactor Could Beat ITER** [[Youtube](https://www.youtube.com/watch?v=n4DEZSxKiSk)]
+
 
 
 ### :dart: q-distribution Prediction 
