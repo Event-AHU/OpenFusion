@@ -38,7 +38,7 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
 * **HGTS-Former: Hierarchical HyperGraph Transformer for Multivariate Time Series Analysis**,
   Xiao Wang, Hao Si, Fan Zhang, Xiaoya Zhou, Dengdi Sun, Wanli Lyu, Qingquan Yang, Jin Tang, arXiv:2508.02411
   [[Paper](https://arxiv.org/abs/2508.02411)]
-  [[Code](https://github.com/Event-AHU/Time_Series_Analysis)] 
+  [[github.com/Event-AHU/Time_Series_Analysis](https://github.com/Event-AHU/Time_Series_Analysis)] 
 
 <img width="2176" height="1210" alt="image" src="https://github.com/user-attachments/assets/f19b3f7a-ad61-435b-b3b2-9dda1744802f" />
 
