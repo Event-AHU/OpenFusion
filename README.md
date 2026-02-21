@@ -11,6 +11,9 @@
 
 * **MIT’s Tiny Fusion Reactor Could Beat ITER** [[Youtube](https://www.youtube.com/watch?v=n4DEZSxKiSk)]
 
+* **Nuclear Fusion Breaks Multiple Records 2026.02** [[Youtube](https://youtu.be/IuMW6OQwNAM?si=nzuibLjqgV4BqxOu)]
+Nuclear fusion is the energy source of the future. But after decades of waiting for progress, people are understandably growing more and more skeptical that our fusion-powered future is actually on its way. Recently, though, the headlines have been filled with stories of fusion companies across the globe breaking different milestones. Is this real progress or just more hype? Let’s take a look. 
+
 
 
 ### :dart: q-distribution Prediction 
@@ -39,6 +42,6 @@
 
 
 
-### :dart: PINNs 
+### :dart: PINNs and PDE 
 
 
