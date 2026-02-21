@@ -40,8 +40,26 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
   [[Paper](https://arxiv.org/abs/2508.02411)]
   [[Code](https://github.com/Event-AHU/Time_Series_Analysis)] 
 
+<img width="2176" height="1210" alt="image" src="https://github.com/user-attachments/assets/f19b3f7a-ad61-435b-b3b2-9dda1744802f" />
 
 
 ### :dart: PINNs and PDE 
+* **Revisiting Heat Flux Analysis of Tungsten Monoblock Divertor on EAST using Physics-Informed Neural Network**,
+  Xiao Wang, Zikang Yan, Hao Si, Zhendong Yang*, Qingquan Yang*, Dengdi Sun, Wanli Lyu, Jin Tang
+  [[Paper](https://arxiv.org/abs/2508.03776)] 
+
+<img width="1828" height="1154" alt="image" src="https://github.com/user-attachments/assets/4053cf54-013a-43e8-9acf-95657c089362" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
