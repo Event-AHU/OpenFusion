@@ -1,0 +1,72 @@
+name: NS2d
+file: evaluate.py
+
+model: Nestor
+dataset: ns2d
+use_writer: False
+res: 128
+modes: 20
+width: 32
+lr: 0 #0.001
+lr_method: cycle
+warmup_epochs: 40
+step_size: 100
+step_gamma: 0.5
+epochs: 1
+noise_scale: 0
+T_ar: 1
+use_ln: 1
+normalize: 0
+T_bundle: 1
+grad_clip: 10000.0
+n_channels: 4
+n_class: 12
+
+test_paths: [
+  # 'ns2d_fno_1e-5'
+  # 'ns2d_fno_1e-4',
+  # 'ns2d_fno_1e-3',
+  # 'ns2d_pdb_M1_eta1e-1_zeta1e-1',
+  # 'ns2d_pdb_M1_eta1e-2_zeta1e-2',
+  # 'ns2d_pdb_M1e-1_eta1e-1_zeta1e-1',
+  # 'ns2d_pdb_M1e-1_eta1e-2_zeta1e-2',
+  # 'swe_pdb',
+  # 'dr_pdb',
+  # 'ns2d_pda',
+  # 'ns2d_cond_pda',
+  'cfdbench'
+  # 'ns2d_pdb_M1e-1_eta1e-8_zeta1e-8_turb_512',
+]
+ntest_list: [
+  # 200,
+  # 200, 
+  # 200, 
+  # 1000, 
+  # 1000, 
+  # 1000, 
+  # 1000, 
+  # 100, 
+  # 100, 
+  # 1300, 
+  # 608, 
+  1000
+  # 100
+]
+
+
+######################################################
+resume_path: '/zxy/nestor/merge/merged_model_11.pth'
+tasks:
+ comment: ['cfdbench']
+ batch_size: [1]
+ mlp_ratio: [1]
+ res: [128]
+ modes: [32]
+ patch_size: [8]
+ width: [512]
+ n_layers: [4]
+ n_blocks: [4]
+
+
+
+
