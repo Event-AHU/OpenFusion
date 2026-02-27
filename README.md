@@ -51,10 +51,10 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
   <img width="1828" height="1154" alt="image" src="https://github.com/user-attachments/assets/4053cf54-013a-43e8-9acf-95657c089362" />
 
 
-* **NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**,
+* [CVPR-2026] **NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**,
   Dengdi Sun, Xiaoya Zhou, Xiao Wang, Hao Si, Wanli Lyu, Jin Tang, Bin Luo
   [[Paper](https://arxiv.org/abs/2602.22059)]
-
+  
   <img width="1503" height="933" alt="image" src="https://github.com/user-attachments/assets/4264e673-fb1c-4204-8cae-d12802bfb741" />
 
 
