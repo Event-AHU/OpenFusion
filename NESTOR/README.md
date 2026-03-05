@@ -1,10 +1,10 @@
 ## NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training
 You can find the paper here: [NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training](https://arxiv.org/abs/2602.22059)
-![fig1](/resources/nestor.png)
+![fig1](resources/nestor.png)
 
 Our pre-trained NESTOR achieves the state-of-the-art performance on multiple PDE datasets and could be used for finetuning on different types of downstream PDE problems.
 
-![fig2](/resources/nestor_result.png)
+![fig2](resources/nestor_result.png)
 
 ### Usage 
 
