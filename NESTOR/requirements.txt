@@ -1,0 +1,22 @@
+### Environment
+- Python 3.10
+- CUDA 12.9
+- PyTorch 2.3.1
+
+### Install dependencies
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
+timm==0.9.7
+einops==0.7.0
+numpy==1.24.4
+scipy==1.9.1
+pandas==1.4.4
+matplotlib==3.5.2
+scikit-learn==1.0.2
+scikit-image==0.19.2
+h5py==3.7.0
+PyYAML==6.0.1
+tensorboard==2.14.1
+tqdm==4.66.4 
+
