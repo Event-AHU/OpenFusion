@@ -26,6 +26,10 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
 * **XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion**, Xiao Wang, Qingquan Yang, Fuling Wang, Qiang Chen, Wentao Wu, Yu Jin, Jingtao Jiang, Liye Jin, Bo Jiang, Dengdi Sun, Wanli Lv, Meiwen Chen, Zehua Chen, Guosheng Xu, Jin Tang arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]
 
 
+
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4d596533-a05d-405e-bfea-415f63bf4a95" />
+
+
 ### :dart: AI4Fusion Survey
 
 
