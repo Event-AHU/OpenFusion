@@ -60,6 +60,10 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
 
 ### :dart: Citations 
 
+If you find this GitHub repository helpful for your research, please **cite** the following papers and give us a **star**. Thanks! 
+If you have any questions about our work, please leave an issue. 
+
+
 ```
 
 @article{sun2026NESTOR,
