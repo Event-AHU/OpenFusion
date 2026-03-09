@@ -58,7 +58,56 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
   <img width="1503" height="933" alt="image" src="https://github.com/user-attachments/assets/4264e673-fb1c-4204-8cae-d12802bfb741" />
 
 
+### :dart: Citations 
 
+```
+
+@article{sun2026NESTOR,
+  title={NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training},
+  author={Sun, Dengdi and Zhou, Xiaoya and Wang, Xiao and Si, Hao and Lyu, Wanli and Tang, Jin and Luo, Bin},
+  journal={arXiv preprint arXiv:2602.22059},
+  year={2026}
+}
+
+@article{wang2025revisiting,
+  title={Revisiting Heat Flux Analysis of Tungsten Monoblock Divertor on EAST using Physics-Informed Neural Network},
+  author={Wang, Xiao and Yan, Zikang and Si, Hao and Yang, Zhendong and Yang, Qingquan and Sun, Dengdi and Lyu, Wanli and Tang, Jin},
+  journal={arXiv preprint arXiv:2508.03776},
+  year={2025}
+}
+
+@article{wang2025HGTSFormer,
+  title={HGTS-Former: Hierarchical HyperGraph Transformer for Multivariate Time Series Analysis},
+  author={Wang, Xiao and Si, Hao and Zhang, Fan and Zhou, Xiaoya and Sun, Dengdi and Lyu, Wanli and Yang, Qingquan and Tang, Jin},
+  journal={arXiv preprint arXiv:2508.02411},
+  year={2025}
+}
+
+@article{wang2025xihefusion,
+  title={Xihefusion: Harnessing large language models for science communication in nuclear fusion},
+  author={Wang, Xiao and Yang, Qingquan and Wang, Fuling and Chen, Qiang and Wu, Wentao and Jin, Yu and Jiang, Jingtao and Jin, Liye and Jiang, Bo and Sun, Dengdi and others},
+  journal={arXiv preprint arXiv:2502.05615},
+  year={2025}
+}
+
+@inproceedings{ma2024exploiting,
+  title={Exploiting memory-aware q-distribution prediction for nuclear fusion via modern hopfield network},
+  author={Ma, Qingchuan and Wang, Shiao and Zheng, Tong and Dai, Xiaodong and Wang, Yifeng and Yang, Qingquan and Wang, Xiao},
+  booktitle={International Conference on Brain Inspired Cognitive Systems},
+  pages={104--114},
+  year={2024},
+  organization={Springer}
+}
+
+@inproceedings{wang2024multi,
+  title={Multi-modal fusion based q-distribution prediction for controlled nuclear fusion},
+  author={Wang, Shiao and Wang, Yifeng and Ma, Qingchuan and Wang, Xiao and Yan, Ning and Yang, Qingquan and Xu, Guosheng and Tang, Jin},
+  booktitle={International Conference on Brain Inspired Cognitive Systems},
+  pages={115--125},
+  year={2024},
+  organization={Springer}
+}
+```
 
 
 
