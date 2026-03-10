@@ -2,7 +2,6 @@
 
 **UniPINN: A Unified PINN Framework for Multi-task Learning of Diverse Navier–Stokes Equations**  
 Dengdi Sun, Jie Chen, Xiao Wang*, Jin Tang  
-[Paper]
 
 ---
 
