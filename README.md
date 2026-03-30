@@ -21,6 +21,8 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
 
 * Ma, Qingchuan, et al. "**Exploiting memory-aware q-distribution prediction for nuclear fusion via modern hopfield network.**" International Conference on Brain Inspired Cognitive Systems. Singapore: Springer Nature Singapore, 2024. [[Paper](https://arxiv.org/pdf/2410.08889)] 
 
+ <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f3bddfbf-e672-49e4-87b6-45a6fe753260" />
+
 
 ### :dart: Foundation Models (1D, LLM, VLM) for Fusion 
 * **XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion**, Xiao Wang, Qingquan Yang, Fuling Wang, Qiang Chen, Wentao Wu, Yu Jin, Jingtao Jiang, Liye Jin, Bo Jiang, Dengdi Sun, Wanli Lv, Meiwen Chen, Zehua Chen, Guosheng Xu, Jin Tang arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]
