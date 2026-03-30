@@ -4,7 +4,8 @@
 ### Workshops 
 
 * [2026-01-09] **智聚未来：AI 与核聚变交叉创新研讨会** [[公众号信息](https://mp.weixin.qq.com/s/bGNRH-OKR8PU295Ka72mDw)] 
- 
+
+ <img width="599" height="220" alt="Image" src="https://github.com/user-attachments/assets/2ce80283-3404-4828-82d9-b5b419177a11" />
 
 ### :dart: Video Tutorials: 
 * **JT-60SA, a step closer to fusion energy** [[Youtube](https://www.youtube.com/watch?v=PFrz_HDdwW4&ab_channel=FUSIONFORENERGY)]
