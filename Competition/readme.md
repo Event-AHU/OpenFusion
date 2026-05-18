@@ -54,6 +54,7 @@ EXL-50U装置及线圈分布
 * 变位置控制（仅偏滤器位形）：跟踪随时间变化的水平位置目标（变化量≤5 cm），同时维持电流、垂直位置、形状（最外闭合磁面相对于等离子体中心的相对位置）不变。
 * 控制方式：智能体观测仿真环境状态（位形参数、磁诊断信号、线圈电流等），输出极向场线圈电压指令，控制频率1 kHz。
 
+<img width="8000" height="2603" alt="image" src="https://github.com/user-attachments/assets/e733e93a-6e3a-43a0-8d54-cd7c0f00aaa0" />
 
 等离子体电流和中心位置随时间变化
 ​
@@ -106,6 +107,7 @@ trajectory：跟踪给定的逐时刻 reference 轨迹
 **Baseline**
 赛事方提供基于强化学习PPO（Proximal Policy Optimization）+ Ray 的基础方案，包括仿真环境调用示例，PPO训练脚本，评测脚本和与训练权重。参赛者可从AI算法角度（不局限于扩散模型、强化学习、迁移学习等基础算法，或奖励函数、网络架构、训练策略、域随机化）等角度优化。
 
+<img width="864" height="487" alt="image" src="https://github.com/user-attachments/assets/4a20fa1f-d3b9-4bfd-9659-4ee241f20062" />
 
 EXL-50U——AI控制总体框架
 
