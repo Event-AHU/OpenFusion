@@ -8,13 +8,16 @@
  <img width="599" height="220" alt="Image" src="https://github.com/user-attachments/assets/2ce80283-3404-4828-82d9-b5b419177a11" />
 
 ### :dart: Video Tutorials: 
+
+* **MIT Introduction to Deep Learning 6.S191**: **Lecture 8 AI for Science** 
+  Lecturer: Chris Bishop (Technical Fellow) Microsoft [[Youtube](https://www.youtube.com/watch?v=rZACoZD8AG8)] 
+  
 * **JT-60SA, a step closer to fusion energy** [[Youtube](https://www.youtube.com/watch?v=PFrz_HDdwW4&ab_channel=FUSIONFORENERGY)]
-
+  
 * **MIT’s Tiny Fusion Reactor Could Beat ITER** [[Youtube](https://www.youtube.com/watch?v=n4DEZSxKiSk)]
-
+  
 * **Nuclear Fusion Breaks Multiple Records 2026.02** [[Youtube](https://youtu.be/IuMW6OQwNAM?si=nzuibLjqgV4BqxOu)]
 Nuclear fusion is the energy source of the future. But after decades of waiting for progress, people are understandably growing more and more skeptical that our fusion-powered future is actually on its way. Recently, though, the headlines have been filled with stories of fusion companies across the globe breaking different milestones. Is this real progress or just more hype? Let’s take a look. 
-
 
 
 ### :dart: q-distribution Prediction 
