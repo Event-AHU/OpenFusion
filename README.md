@@ -7,7 +7,13 @@
 
  <img width="599" height="220" alt="Image" src="https://github.com/user-attachments/assets/2ce80283-3404-4828-82d9-b5b419177a11" />
 
+
+
+
+
 ### :dart: Video Tutorials: 
+
+* **Fusion reactors now work, but how close are they to rollout?** [[Youtube](https://www.youtube.com/watch?v=YsOF-D5Lyvw)]
 
 * **MIT Introduction to Deep Learning 6.S191**: **Lecture 8 AI for Science** 
   Lecturer: Chris Bishop (Technical Fellow) Microsoft [[Youtube](https://www.youtube.com/watch?v=rZACoZD8AG8)] 
