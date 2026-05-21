@@ -13,6 +13,8 @@
 
 ### :dart: Video Tutorials: 
 
+* **Vol.167 可控核聚变如何制造终极能源？** [[Youtube](https://www.youtube.com/watch?v=0JqBfYwQcqg&t=13s)]
+
 * **Fusion reactors now work, but how close are they to rollout?** [[Youtube](https://www.youtube.com/watch?v=YsOF-D5Lyvw)]
 
 * **MIT Introduction to Deep Learning 6.S191**: **Lecture 8 AI for Science** 
