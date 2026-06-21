@@ -3,6 +3,12 @@
 
 ### Workshops 
 
+
+* [2026-08-14] Special Session "**Intelligent Computing for Nuclear Fusion: Cross-Innovation of AI and Controlled Nuclear Fusion**" [智算核聚变: AI 与可控核聚变的交叉创新](https://www.siusai.org/session6.html) 
+ 2026 5th International Symposium on Intelligent Unmanned Systems and Artificial Intelligence (**SIUSAI 2026**) [[https://www.siusai.org/](https://www.siusai.org/)]  
+ <img width="1000" height="700" alt="Image" src="https://github.com/user-attachments/assets/da419475-9aaa-411e-871a-b735833eefaf" />
+
+
 * [2026-01-09] **智聚未来：AI 与核聚变交叉创新研讨会** [[公众号信息](https://mp.weixin.qq.com/s/bGNRH-OKR8PU295Ka72mDw)] 
 
  <img width="599" height="220" alt="Image" src="https://github.com/user-attachments/assets/2ce80283-3404-4828-82d9-b5b419177a11" />
