@@ -45,10 +45,6 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
 ### :dart: Foundation Models (1D, LLM, VLM) for Fusion 
 * **XiHeFusion: Harnessing Large Language Models for Science Communication in Nuclear Fusion**, Xiao Wang, Qingquan Yang, Fuling Wang, Qiang Chen, Wentao Wu, Yu Jin, Jingtao Jiang, Liye Jin, Bo Jiang, Dengdi Sun, Wanli Lv, Meiwen Chen, Zehua Chen, Guosheng Xu, Jin Tang arXiv Pre-print arXiv:2502.05615 [[Paper](https://arxiv.org/abs/2502.05615)]
 
-<div align="center">
-  <video src="https://github.com/user-attachments/assets/4d596533-a05d-405e-bfea-415f63bf4a95" width="70%" poster=""> </video>
-</div>
-
 
 
 
