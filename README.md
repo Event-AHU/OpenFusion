@@ -69,17 +69,18 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
   Xiao Wang, Zikang Yan, Hao Si, Zhendong Yang*, Qingquan Yang*, Dengdi Sun, Wanli Lyu, Jin Tang
   [[Paper](https://arxiv.org/abs/2508.03776)] 
 
-
-
 * [CVPR-2026] **NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**,
   Dengdi Sun, Xiaoya Zhou, Xiao Wang, Hao Si, Wanli Lyu, Jin Tang, Bin Luo
   [[Paper](https://arxiv.org/abs/2602.22059)]
   
-
 * [arXiv:2603.10466] **UniPINNs: Unified Physical-informed Neural Network**,
   Dengdi Sun, Jie Chen, Xiao Wang*, Jin Tang
   [[Paper](https://arxiv.org/abs/2603.10466)]
   
+* [arXiv:2606.31574] **Temperature Field Reconstruction of Tungsten Monoblock Divertor on EAST using Physics-aware Neural Operator Transformer** ,
+  Zikang Yan, Xiao Wang*, Qingquan Yang, Zhendong Yang, Gaoting Chen, Zehua Chen, Bo Jiang, Jin Tang, and Guosheng Xu, 
+  arXiv:2606.31574 [[arXiv](https://arxiv.org/abs/2606.31574)] 
+
 
 
 
@@ -96,6 +97,16 @@ If you have any questions about our work, please leave an issue.
 
 
 ```
+
+@misc{yan2026TFRPNOT,
+      title={Temperature Field Reconstruction of Tungsten Monoblock Divertor on EAST using Physics-aware Neural Operator Transformer}, 
+      author={Zikang Yan and Xiao Wang and Qingquan Yang and Zhendong Yang and Gaoting Chen and Zehua Chen and Bo Jiang and Jin Tang and Guosheng Xu},
+      year={2026},
+      eprint={2606.31574},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2606.31574}, 
+}
 
 @article{sun2026NESTOR,
   title={NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training},
