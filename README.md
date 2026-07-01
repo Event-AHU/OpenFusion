@@ -66,7 +66,6 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
   [[Paper](https://arxiv.org/abs/2508.02411)]
   [[github.com/Event-AHU/Time_Series_Analysis](https://github.com/Event-AHU/Time_Series_Analysis)] 
 
- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f19b3f7a-ad61-435b-b3b2-9dda1744802f" />
 
 
 ### :dart: PINNs and PDE 
@@ -74,20 +73,25 @@ Nuclear fusion is the energy source of the future. But after decades of waiting 
   Xiao Wang, Zikang Yan, Hao Si, Zhendong Yang*, Qingquan Yang*, Dengdi Sun, Wanli Lyu, Jin Tang
   [[Paper](https://arxiv.org/abs/2508.03776)] 
 
- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4053cf54-013a-43e8-9acf-95657c089362" />
 
 
 * [CVPR-2026] **NESTOR: A Nested MOE-based Neural Operator for Large-Scale PDE Pre-Training**,
   Dengdi Sun, Xiaoya Zhou, Xiao Wang, Hao Si, Wanli Lyu, Jin Tang, Bin Luo
   [[Paper](https://arxiv.org/abs/2602.22059)]
   
- <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/4264e673-fb1c-4204-8cae-d12802bfb741" />
 
 * [arXiv:2603.10466] **UniPINNs: Unified Physical-informed Neural Network**,
   Dengdi Sun, Jie Chen, Xiao Wang*, Jin Tang
   [[Paper](https://arxiv.org/abs/2603.10466)]
   
- <img width="1280" height="720" alt="Image" src="https://github.com/user-attachments/assets/b81fa12a-5fd1-4b06-8f6b-54d606f107a3" />
+
+
+
+
+
+
+
+
 
 ### :dart: Citations 
 
