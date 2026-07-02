@@ -17,7 +17,6 @@ data/
 datasets/
 result/
 results/
-src/result/
 *.npy
 *.npz
 *.pt
@@ -28,3 +27,6 @@ src/result/
 *.log
 *.tmp
 .DS_Store
+
+!src/result/
+!src/result/**
