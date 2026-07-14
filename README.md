@@ -19,6 +19,21 @@
 
 ### :dart: Video Tutorials: 
 
+
+* [2026 Multi-Fidelity Methods for Fusion Energy Tutorials - YouTube](https://www.youtube.com/watch?v=xlN14HGYiU8&list=PLHyI3Fbmv0ScXr-e-RAh0hUkphgWjBWMN)
+
+* [2026 Multi-Fidelity Methods for Fusion Plasma Physics - YouTube](https://www.youtube.com/watch?v=fRQBzvuBF4E&list=PLHyI3Fbmv0Sfz-bqJ07__m0kB3eS--GXL) 
+
+* [2026 Learning Models from Data for Multi-Fidelity Fusion Plasma Physics - YouTube](https://www.youtube.com/watch?v=8ZHDx2JCCPA&list=PLHyI3Fbmv0SeMLnnZVcJn-P6cvm5ffTu4) 
+
+* [2026 Fusion Device Design and Engineering - YouTube](https://www.youtube.com/watch?v=hoDsQGG6vig&list=PLHyI3Fbmv0Sf47gaz3TrU2mNg16TaFjrO)
+
+* [2026 Multi-Fidelity Methods to Enable Robust Optimization and Real-Time Control of Fusion Processes - YouTube](https://www.youtube.com/watch?v=uknfQEt0Fbg&list=PLHyI3Fbmv0SfHZ7IMlCDTyASTJReRv6HN)
+
+
+
+
+
 * **A New Way to Achieve Nuclear Fusion: Helion** [[Youtube](https://www.youtube.com/watch?v=_bDXXWQxK38)]
 
 * **Vol.167 可控核聚变如何制造终极能源？** [[Youtube](https://www.youtube.com/watch?v=0JqBfYwQcqg&t=13s)]
