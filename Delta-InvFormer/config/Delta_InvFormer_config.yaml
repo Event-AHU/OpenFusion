@@ -1,0 +1,42 @@
+train:
+  experiment_name: &name "Delta_InvFormer"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       
+  gpus: 1
+  batch_size: 1
+  max_epochs: &epochs 15
+  output_dir: &output_dir "./output"
+  tb_dirname: "tensorboard"
+  num_sanity_val_steps: 0
+  log_every_n_steps: 1
+  accelerator: "gpu"
+  strategy: "ddp_find_unused_parameters_true"
+  # strategy: "ddp"
+  checkpoint:
+    ckpt_dirname: "checkpoint"
+
+
+dataset:
+  dataset_name: "NuclearFusion" 
+  scale: [512, 512]
+  data_root: "./dataset/NFDATASET"
+  image_folder: "images"
+  label_folder: "labels"
+  inversion_folder: "inversion"
+  image_ext: ".jpg"
+  label_ext: ".jpg"
+  inversion_ext: ".mat"
+  time_clips: &time_clips 3 # set to 1 for single image
+
+
+model:
+  experiment_name: *name
+  model_name: "Delta_InvFormer"
+  loss_type: "mixed"
+  finetune_learning_rate: 0.0001
+  scratch_learning_rate: 0.00001
+  inversion_learning_rate: 0.00001
+  optimizer: "AdamW"
+  lr_scheduler: null
+  max_epochs: *epochs
+  output_dir: *output_dir
+  time_clips: *time_clips
+  pretrained_weight: null
