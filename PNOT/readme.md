@@ -64,8 +64,6 @@ For GPU training, use a CUDA-enabled PyTorch installation compatible with your e
 
 ### Code Structure
 
-- `readme.md`: project overview and usage instructions.
-- `framework.png`: PNOT framework illustration.
 - `src/config.yaml`: dataset, model, training, loss, and evaluation configuration.
 - `src/run.sh`: Bash launcher with device and run-name overrides.
 - `src/HeatOperator/run_train.py`: training entry point.
