@@ -2,7 +2,7 @@
 
 You can find the paper here: [Temperature Field Reconstruction of Tungsten Monoblock Divertor on EAST using Physics-aware Neural Operator Transformer](https://arxiv.org/abs/2606.31574)
 
-Zikang Yan, Xiao Wang, Qingquan Yang, Zhendong Yang*, Gaoting Chen, Zehua Chen, Bo Jiang, Jin Tang, and Guosheng Xu. arXiv:2606.31574.
+Zikang Yan, Xiao Wang, Qingquan Yang, Zhendong Yang *, Gaoting Chen, Zehua Chen, Bo Jiang, Jin Tang, and Guosheng Xu. arXiv:2606.31574.
 
 ![PNOT framework](framework.png)
 
