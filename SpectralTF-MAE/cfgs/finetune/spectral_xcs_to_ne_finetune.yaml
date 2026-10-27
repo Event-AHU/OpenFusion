@@ -1,0 +1,53 @@
+# Full-spectrum XCS to ne/Ti/Te regression with the shared pretrained encoder.
+in_domains: xcs
+out_domains: ne-ti-te
+epochs: 200
+pretrained_ckpt: ''
+resume: ''
+xcs_original_size:
+- 35
+- 487
+xcs_input_size:
+- 35
+- 490
+xcs_patch_size:
+- 5
+- 14
+pad_xcs_width_to: 490
+spectral_normalize: minmax
+spectral_normalize_eps: 1.0e-06
+best_metric: mean_r2
+model: pretrain_SpectralTF_base
+num_global_tokens: 1
+freeze_backbone: false
+freeze_encoder: false
+freeze_input_adapters: false
+opt: adamw
+blr: 5.0e-05
+min_lr: 0.0
+warmup_lr: 1.0e-06
+warmup_epochs: 10
+weight_decay: 0.05
+opt_betas:
+- 0.9
+- 0.95
+batch_size: 32
+clip_grad: null
+data_path: ''
+target_stats_path: ''
+npy_mmap: true
+split_seed: 0
+split_ratios:
+- 0.7
+- 0.2
+- 0.1
+num_workers: 8
+pin_mem: true
+output_dir: output/finetune/xcs_ne_tite
+save_ckpt_freq: 200
+eval_freq: 1
+print_freq: 10
+max_val_batches: -1
+max_test_batches: -1
+save_predictions: true
+timestamp_output: false

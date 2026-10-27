@@ -1,0 +1,58 @@
+# Joint CXRS/XCS pretraining; this checkpoint initializes downstream models.
+in_domains: cxrs-xcs
+out_domains: cxrs-xcs
+epochs: 800
+resume: ''
+
+# Shared patch geometry.  XCS raw [35,487] is zero-padded to [35,490].
+cxrs_input_size: [12, 1024]
+cxrs_original_size: [12, 1024]
+cxrs_patch_size: [3, 16]
+xcs_input_size: [35, 490]
+xcs_original_size: [35, 487]
+xcs_patch_size: [5, 14]
+pad_xcs_width_to: 490
+spectral_normalize: minmax
+
+# Peak-aware masking prioritizes high-intensity spectral patches.
+# 4*64 CXRS tokens + 7*35 XCS tokens = 501 tokens;
+# 100 visible tokens and 401 masked tokens per training sample.
+spectral_masking: peak_aware
+num_encoded_tokens: 100
+peak_token_quantile: 0.8
+peak_mask_fraction: 0.7
+peak_pool_mask_cap: 0.7
+peak_score_mode: max
+
+# Reconstruction combines masked MSE and fixed-peak-region loss.
+peak_loss_weight: 0.7
+best_metric: mean_peak
+
+model: pretrain_SpectralTF_base
+decoder_dim: 256
+decoder_depth: 2
+decoder_num_heads: 8
+num_global_tokens: 1
+decoder_use_task_queries: true
+decoder_use_xattn: true
+
+opt: adamw
+blr: 0.0001
+min_lr: 0.0
+warmup_lr: 0.000001
+warmup_epochs: 40
+weight_decay: 0.05
+opt_betas: [0.9, 0.95]
+batch_size: 128
+clip_grad: null
+
+data_path: ''
+num_workers: 2
+pin_mem: true
+
+output_dir: output/pretrain/shared_peak_aware
+save_ckpt_freq: 800
+eval_freq: 1
+vis_freq: 800
+vis_max_samples: 0
+timestamp_output: false

@@ -1,0 +1,43 @@
+# Evaluate full-spectrum inputs using fixed-peak metrics.
+in_domains: xcs
+out_domains: cxrs
+split: test
+checkpoint: ''
+cxrs_input_size:
+- 12
+- 1024
+cxrs_original_size:
+- 12
+- 1024
+cxrs_patch_size:
+- 3
+- 16
+xcs_input_size:
+- 35
+- 490
+xcs_original_size:
+- 35
+- 487
+xcs_patch_size:
+- 5
+- 14
+pad_xcs_width_to: 490
+spectral_normalize: minmax
+spectral_normalize_eps: 1.0e-06
+model: pretrain_SpectralTF_base
+decoder_dim: 256
+decoder_depth: 2
+decoder_num_heads: 8
+num_global_tokens: 1
+decoder_use_task_queries: true
+decoder_use_xattn: true
+decoder_context_tasks: xcs-cxrs
+data_path: ''
+batch_size: 32
+num_workers: 8
+pin_mem: true
+max_test_batches: -1
+output_dir: output/test/xcs_to_cxrs
+save_visualizations: true
+vis_max_samples: 8
+save_predictions: false

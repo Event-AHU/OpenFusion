@@ -1,0 +1,60 @@
+# SpectralTF full-spectrum fine-tuning; shared peak-aware pretraining checkpoint.
+# Loss and validation metrics use the fixed spectral peak interval.
+in_domains: cxrs
+out_domains: xcs
+epochs: 200
+pretrained_ckpt: ''
+resume: ''
+cxrs_input_size:
+- 12
+- 1024
+cxrs_original_size:
+- 12
+- 1024
+cxrs_patch_size:
+- 3
+- 16
+xcs_input_size:
+- 35
+- 490
+xcs_original_size:
+- 35
+- 487
+xcs_patch_size:
+- 5
+- 14
+pad_xcs_width_to: 490
+spectral_normalize: minmax
+spectral_normalize_eps: 1.0e-06
+best_metric: xcs_peak_r2
+model: pretrain_SpectralTF_base
+decoder_dim: 256
+decoder_depth: 2
+decoder_num_heads: 8
+num_global_tokens: 1
+decoder_use_task_queries: true
+decoder_use_xattn: true
+decoder_context_tasks: cxrs-xcs
+freeze_encoder: false
+freeze_input_adapters: false
+freeze_output_adapters: false
+opt: adamw
+blr: 5.0e-05
+min_lr: 0.0
+warmup_lr: 1.0e-06
+warmup_epochs: 10
+weight_decay: 0.05
+opt_betas:
+- 0.9
+- 0.95
+batch_size: 32
+clip_grad: null
+data_path: ''
+num_workers: 8
+pin_mem: true
+output_dir: output/finetune/cxrs_to_xcs
+save_ckpt_freq: 10
+eval_freq: 1
+vis_freq: 100
+vis_max_samples: 2
+timestamp_output: false
